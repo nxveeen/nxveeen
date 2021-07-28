@@ -4,7 +4,7 @@
 #### 
 
 - 🏢 I'm a passionate Full Stack Developer from Inida 🇮🇳
-- ⚙️ I use daily: `.cpp`, `.js`, `.html`, `.scss`, `.json` , `.sql`
+- ⚙️ I use daily: `.cpp`, `.js`, `.html`, `.scss`, `.json`, `.jsx`, `.sql`
 - 🌱 Learning more about and studying: **Open Source, React, CS Algorithms**
 - 💬 Ping me about: **wed design**, **competitve programming**,  
 - 📫 Reach me asap: nilotpalgoyal9393@gmail.com
