@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Nilotpal Goyal!](www.linkedin.com/in/nilotpalgoyal)
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Nilotpal Goyal!](http://www.linkedin.com/in/nilotpalgoyal)
 ---
 
 #### 
