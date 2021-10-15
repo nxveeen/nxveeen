@@ -15,7 +15,7 @@
 - 💼 Connecting and sharing professional updates on <a href="www.linkedin.com/in/nilotpalgoyal">LinkedIn</a>
 - 🎧 Listening to all my favorite jams on <a href="https://open.spotify.com/user/nxveen">Spotify</a>
 - 🌐 Updating my personal website (*Coming soon...*)
-- 🐦 Tweeting about Beyonce, memes and sharing tech tweets on <a href="https://twitter.com/">Twitter</a>
+- 🐦 Tweeting about Kanye, memes and sharing tech tweets on <a href="https://twitter.com/">Twitter</a>
 
 
 ---
